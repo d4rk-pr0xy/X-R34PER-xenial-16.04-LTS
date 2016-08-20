@@ -1,5 +1,5 @@
 # X-R34PER-xenial-16.04-LTS      |
-Repositry for the New OS X-R34PER|
+Repository for the New X-R34PER xenial 16.04 mini LTS Pentesting Distro from D4RK-PR0XY.
 A beautiful and futuristic pentesting environment with xfce4 &compiz window manager burned into.
 Comes packed with a complete arsenal of tools from past and present distros.  
 Comes with a lot of custom scripts for Wireless, Bruteforce, and Denial of Service testing.
